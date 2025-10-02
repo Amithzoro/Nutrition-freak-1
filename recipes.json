@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Grilled Chicken Salad",
+        "Country": "USA",
+        "Calories": 350,
+        "Protein": 30,
+        "Carbs": 15,
+        "Fat": 18,
+        "Fiber": 4,
+        "Sugar": 6,
+        "Sodium": 500,
+        "ingredients": [
+            "Chicken Breast",
+            "Lettuce",
+            "Tomatoes",
+            "Olive Oil",
+            "Lemon"
+        ],
+        "directions": [
+            "Grill chicken until cooked",
+            "Mix with veggies",
+            "Drizzle olive oil and lemon"
+        ]
+    },
+    {
+        "title": "Vegetable Biryani",
+        "Country": "India",
+        "Calories": 450,
+        "Protein": 10,
+        "Carbs": 80,
+        "Fat": 12,
+        "Fiber": 7,
+        "Sugar": 5,
+        "Sodium": 600,
+        "ingredients": [
+            "Basmati Rice",
+            "Mixed Vegetables",
+            "Spices",
+            "Ghee",
+            "Onions"
+        ],
+        "directions": [
+            "Cook rice with spices",
+            "Fry vegetables",
+            "Mix and layer with rice"
+        ]
+    },
+    {
+        "title": "Sushi Roll",
+        "Country": "Japan",
+        "Calories": 300,
+        "Protein": 12,
+        "Carbs": 50,
+        "Fat": 8,
+        "Fiber": 3,
+        "Sugar": 4,
+        "Sodium": 400,
+        "ingredients": [
+            "Sushi Rice",
+            "Nori",
+            "Salmon",
+            "Cucumber",
+            "Soy Sauce"
+        ],
+        "directions": [
+            "Prepare rice",
+            "Place filling on nori",
+            "Roll tightly and cut"
+        ]
+    },
+    {
+        "title": "Pasta Alfredo",
+        "Country": "Italy",
+        "Calories": 600,
+        "Protein": 15,
+        "Carbs": 70,
+        "Fat": 25,
+        "Fiber": 3,
+        "Sugar": 5,
+        "Sodium": 700,
+        "ingredients": [
+            "Pasta",
+            "Cream",
+            "Parmesan Cheese",
+            "Garlic",
+            "Butter"
+        ],
+        "directions": [
+            "Boil pasta",
+            "Prepare Alfredo sauce",
+            "Mix pasta with sauce"
+        ]
+    }
+]
