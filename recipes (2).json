@@ -1,0 +1,229 @@
+[
+    {
+        "title": "Grilled Chicken Salad",
+        "country": "USA",
+        "calories": 350,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 18,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 500,
+        "ingredients": [
+            "Chicken Breast",
+            "Lettuce",
+            "Tomatoes",
+            "Olive Oil",
+            "Lemon"
+        ],
+        "instructions": [
+            "Grill chicken until cooked",
+            "Mix with veggies",
+            "Drizzle olive oil and lemon"
+        ]
+    },
+    {
+        "title": "Vegetable Biryani",
+        "country": "India",
+        "calories": 450,
+        "protein": 10,
+        "carbs": 80,
+        "fat": 12,
+        "fiber": 7,
+        "sugar": 5,
+        "sodium": 600,
+        "ingredients": [
+            "Basmati Rice",
+            "Mixed Vegetables",
+            "Spices",
+            "Ghee",
+            "Onions"
+        ],
+        "instructions": [
+            "Cook rice with spices",
+            "Fry vegetables",
+            "Mix and layer with rice"
+        ]
+    },
+    {
+        "title": "Sushi Roll",
+        "country": "Japan",
+        "calories": 300,
+        "protein": 12,
+        "carbs": 50,
+        "fat": 8,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 400,
+        "ingredients": [
+            "Sushi Rice",
+            "Nori",
+            "Salmon",
+            "Cucumber",
+            "Soy Sauce"
+        ],
+        "instructions": [
+            "Prepare rice",
+            "Place filling on nori",
+            "Roll tightly and cut"
+        ]
+    },
+    {
+        "title": "Pasta Alfredo",
+        "country": "Italy",
+        "calories": 600,
+        "protein": 15,
+        "carbs": 70,
+        "fat": 25,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 700,
+        "ingredients": [
+            "Pasta",
+            "Cream",
+            "Parmesan Cheese",
+            "Garlic",
+            "Butter"
+        ],
+        "instructions": [
+            "Boil pasta",
+            "Prepare Alfredo sauce",
+            "Mix pasta with sauce"
+        ]
+    },
+    {
+        "title": "Pad Thai",
+        "country": "Thailand",
+        "calories": 550,
+        "protein": 20,
+        "carbs": 60,
+        "fat": 22,
+        "fiber": 5,
+        "sugar": 8,
+        "sodium": 650,
+        "ingredients": [
+            "Rice Noodles",
+            "Shrimp",
+            "Eggs",
+            "Peanuts",
+            "Bean Sprouts"
+        ],
+        "instructions": [
+            "Soak noodles",
+            "Stir fry shrimp and eggs",
+            "Mix everything with sauce"
+        ]
+    },
+    {
+        "title": "Beef Tacos",
+        "country": "Mexico",
+        "calories": 500,
+        "protein": 25,
+        "carbs": 50,
+        "fat": 20,
+        "fiber": 6,
+        "sugar": 5,
+        "sodium": 700,
+        "ingredients": [
+            "Beef",
+            "Taco Shells",
+            "Lettuce",
+            "Cheese",
+            "Tomatoes"
+        ],
+        "instructions": [
+            "Cook beef with spices",
+            "Fill taco shells with ingredients"
+        ]
+    },
+    {
+        "title": "Falafel Wrap",
+        "country": "Middle East",
+        "calories": 400,
+        "protein": 12,
+        "carbs": 45,
+        "fat": 15,
+        "fiber": 8,
+        "sugar": 4,
+        "sodium": 500,
+        "ingredients": [
+            "Chickpeas",
+            "Flour",
+            "Spices",
+            "Lettuce",
+            "Wrap"
+        ],
+        "instructions": [
+            "Prepare falafel mixture",
+            "Fry or bake falafel",
+            "Assemble wrap"
+        ]
+    },
+    {
+        "title": "Tom Yum Soup",
+        "country": "Thailand",
+        "calories": 180,
+        "protein": 10,
+        "carbs": 12,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 800,
+        "ingredients": [
+            "Shrimp",
+            "Mushrooms",
+            "Lemongrass",
+            "Chili",
+            "Lime"
+        ],
+        "instructions": [
+            "Boil broth",
+            "Add ingredients",
+            "Simmer until cooked"
+        ]
+    },
+    {
+        "title": "Cheeseburger",
+        "country": "USA",
+        "calories": 700,
+        "protein": 35,
+        "carbs": 50,
+        "fat": 40,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 900,
+        "ingredients": [
+            "Beef Patty",
+            "Bun",
+            "Cheese",
+            "Lettuce",
+            "Tomato"
+        ],
+        "instructions": [
+            "Cook patty",
+            "Assemble burger with toppings"
+        ]
+    },
+    {
+        "title": "Green Salad",
+        "country": "Global",
+        "calories": 150,
+        "protein": 5,
+        "carbs": 10,
+        "fat": 8,
+        "fiber": 5,
+        "sugar": 4,
+        "sodium": 200,
+        "ingredients": [
+            "Lettuce",
+            "Cucumber",
+            "Tomatoes",
+            "Olive Oil",
+            "Lemon"
+        ],
+        "instructions": [
+            "Chop vegetables",
+            "Mix with dressing"
+        ]
+    }
+]
